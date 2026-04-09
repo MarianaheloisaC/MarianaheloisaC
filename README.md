@@ -12,7 +12,7 @@
 
 ## 📊 GitHub Stats
 
-![Mariana's GitHub Stats](https://readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarianaheloisaC&show_icons=true&theme=tokyonight&hide_border=true)
+https://github-readme-stats-ad9h8rp6t-marianaheloisacs-projects.vercel.app/api?username=MarianaheloisaC&show_icons=true&theme=tokyonight&hide_border=true
 
 ---
 
