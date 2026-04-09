@@ -8,8 +8,9 @@
 - 💻 Skills: UX/UI, Front-end, Python, C  
 - 🌍 Localização: São Paulo, Brazil  
 [X] Iniciei o curso de HTML
-[ ] Markdown
+[X] Markdown
 [X] Fazendo Branches 
+[] Não sei mais o que por de check
 
 ---
 
