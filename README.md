@@ -38,4 +38,4 @@
 </div>
 
 
-- 🔗 ![Portfolio](file:///C:/Users/maria/OneDrive/%C3%81rea%20de%20Trabalho/Curriculo%20Mariana%20Heloisa%20Campanha.pdf)
+- 🔗 [Meu Currículo](./Curriculo Mariana Heloisa Campanha.pdf)
