@@ -10,7 +10,7 @@ Outside of tech, I love drawing, painting, practicing dancing, playing videogame
 
  I'm always excited to learn something new.
 
-🌍 Localização: São Paulo, Brazil  
+🌍 Localização: São Paulo, Brasil  
 
 ---
 
@@ -53,7 +53,7 @@ Full-Stack Development, UX/UI Design and Artificial Intelligence.
 ## 📫 Contact
 
 <div> 
-   <a href="https://www.linkedin.com/in/mariana-helo%C3%ADsa-4b29011bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
+   <a href="https://www.linkedin.com/in/mariana-helo%C3%ADsa-4b29011bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/@marianaheloisa25" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/mah.heloisa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/marienneh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
