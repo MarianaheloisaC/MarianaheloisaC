@@ -28,6 +28,8 @@ Full-Stack Development, UX/UI Design and Artificial Intelligence.
 <img alt="CSS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/CSS.svg">
 <img alt="Java" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/Java.svg">
 <img alt="JavaScript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/Javascript.svg">
+<img alt="JavaScript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/Notion.svg">
+
 </div>
 
 [icons]:https://github.com/gui-bus/TechIcons/blob/main/Dark/Canva.svg
