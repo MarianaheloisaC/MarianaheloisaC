@@ -9,7 +9,7 @@ Outside of tech, I love drawing, painting, practicing dancing, playing videogame
 
  I'm always excited to learn something new.
 
-🌍 Localização: São Paulo, Brasil  
+🌍 Location: São Paulo, Brasil  
 
 ---
 
