@@ -39,7 +39,7 @@ Full-Stack Development, UX/UI Design and Artificial Intelligence.
 ##  📊 Github Stats & 📝 Fluências
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats-six-eta-12.vercel.app/api?username=MarianaheloisaC&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-six-eta-12.vercel.app/api?username=MarianaheloisaC&show_icons=true&theme=tokyonight&hide_border=true&v=2)
 
 ![Top Languages](https://github-readme-stats-six-eta-12.vercel.app/api/top-langs/?username=MarianaheloisaC&layout=compact&theme=tokyonight&hide_border=true)
 
