@@ -3,9 +3,9 @@
 ## ✨ _About Me_ ✨ 
 I'm Mariana, a 23-year-old Information Systems student @ USP passionate about technology and creativity.
 
-🔭 I'm currently exploring web development, UX/UI design and programming, always aiming to build solutions that are both functional and visually engaging.
+🔭 I'm currently exploring web development, UX/UI design and programming, always aiming to build solutions that are both functional and visually engaging. 
 
-Outside of tech, I love drawing, painting, practicing dancing, playing videogames, and above all, van Gogh is my favorite artist 🌻🌃
+Outside of tech, I love drawing, painting, practicing dancing, playing videogames, and above all, van Gogh is my favorite artist 🌻🌃  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7b8b9e18213939.562c5c89c256c.gif" width="100" alt="Starry Night">
 
  I'm always excited to learn something new.
 
@@ -47,7 +47,7 @@ Full-Stack Development, UX/UI Design and Artificial Intelligence.
 
 ---
 
-## 📄 Currículo 
+## 📄 Resume 🇧🇷 - 🇺🇸 
 - 🔗 [Portuguese](./curriculo-mariana-heloisa.pdf)
 
 - 🔗 [English](./curriculo-mariana-heloisa.pdf)
