@@ -51,7 +51,7 @@ Full-Stack Development, UX/UI Design and Artificial Intelligence.
 ## 📄 Resume 🇧🇷 - 🇺🇸 
 - 🔗 [Portuguese](curriculo-mariana-heloisa-ptbr.pdf)
 
-- 🔗 [English](./curriculo-mariana-heloisa.pdf)
+- 🔗 [English](resume_mariana_heloisa.pdf)
 
 ---
 
