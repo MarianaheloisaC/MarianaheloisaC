@@ -19,16 +19,14 @@ Full-Stack Development, UX/UI Design and Artificial Intelligence.
 
 🖥️ Tools, Technologies & Languages:
 <div align="center">
+<img alt="Python" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/Python.svg">
 <img alt="C#" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/C%23.svg">
 <img alt="C++" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/C%2B%2B.svg">
 <img alt="Figma" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/Figma.svg">
 <img alt="Figma" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/Canva.svg">
 <img alt="Git" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/GIT.svg">
-<img alt="Python" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/Python.svg">
 <img alt="HTML" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/HTML.svg">
 <img alt="CSS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/CSS.svg">
-<img alt="Java" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/Java.svg">
-<img alt="JavaScript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/Javascript.svg">
 <img alt="JavaScript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/Notion.svg">
 
 </div>
