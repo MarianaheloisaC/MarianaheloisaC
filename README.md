@@ -21,7 +21,7 @@ Full-Stack Development, UX/UI Design and Artificial Intelligence.
 <div align="center">
 <img alt="Python" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/Python.svg">
 <img alt="C#" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/C%23.svg">
-<img alt="C++" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/C%2B%2B.svg">
+<img alt="JavaScript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/39bfd98a1eb81a823acdeb3b75e54fa60b95652d/Dark/PostgreSQL.svg">
 <img alt="Figma" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/Figma.svg">
 <img alt="Figma" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/Canva.svg">
 <img alt="Git" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/GIT.svg">
@@ -29,6 +29,7 @@ Full-Stack Development, UX/UI Design and Artificial Intelligence.
 <img alt="CSS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/CSS.svg">
 <img alt="JavaScript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/Notion.svg">
 
+ 
 </div>
 
 [icons]:https://github.com/gui-bus/TechIcons/blob/main/Dark/Canva.svg
